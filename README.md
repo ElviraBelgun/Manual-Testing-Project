@@ -15,9 +15,11 @@ This repository showcases my skills in manual testing through real-world example
 - Review the test cases designed for different functionalities of a web application, including the expected results and the status of each test.
 Preview Screenshots:
 
-### Below are some screenshots from the Excel files to give you a quick overview of their content:
+### Below are some screenshots from the Excel files to give you a quick overview of their content.
 
+### Bug reports:
 ![Bug reports](screenshots/screenshot-bug-reports.jpg)
 
+### Test cases:
 ![Test cases](screenshots/screenshot-test-cases.jpg)
 
