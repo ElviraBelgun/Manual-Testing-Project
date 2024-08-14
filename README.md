@@ -16,6 +16,6 @@ This repository showcases my skills in manual testing through real-world example
 Preview Screenshots:
 
 Below are some screenshots from the Excel files to give you a quick overview of their content.
-![Bug reports](screenshot bug reports.jpg)
-![Test cases](screenshot test cases.jpg)
+![Bug reports](screenshots/screenshot-bug-reports.jpg)
+![Test cases](screenshots/screenshot-test-cases.jpg)
 
