@@ -18,5 +18,6 @@ Preview Screenshots:
 ### Below are some screenshots from the Excel files to give you a quick overview of their content:
 
 ![Bug reports](screenshots/screenshot-bug-reports.jpg)
+
 ![Test cases](screenshots/screenshot-test-cases.jpg)
 
